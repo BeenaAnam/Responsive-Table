@@ -1,0 +1,14 @@
+table{
+    border: 2px solid red;
+    background: black;
+    color: white;
+}
+button {
+    padding: 10px;
+     background: black;
+}
+
+a{
+   color: white;
+   text-decoration: none;
+}
